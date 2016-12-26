@@ -6,7 +6,7 @@ Applying Kernel Density Estimation (KDE) to grocery store data would allow insig
 KDEs would inform community and economic development decisions. The city, community developers, and grocery stores could utilize this information to make strategic decisions about where to build future grocery stores. Access to quality food is a critical piece of a strong community, so the city and community developers could use this information to understand places in need of grocery stores. They could decide to incentivize grocery stores to build in these areas, or devote further resources to these communities. Grocery stores themselves could benefit from the data in deciding where to build. Building in areas with less grocery stores could be advantageous for them as their competition would be lower.
 
 ## Data
-I found my dataset on the City of Chicago’s Data Portal. It is a .csv file with the latitude and longitude of 506 observations of grocery store locations in the city from 2013. To plot the city boundary, I used a shape file from the same Data portal.
+I used data from the City of Chicago’s Data Portal: (1) latitude and longitude of grocery store locations in the city from 2013 and (2) shapefile of the city boundary.
 URL Grocery Stores - https://data.cityofchicago.org/Community-Economic-Development/Map-of-Grocery-Stores-2013/ce29-twzt
 URL City Boundaries - https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-City/ewy2-6yfk 
 
